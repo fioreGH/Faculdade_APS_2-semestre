@@ -1,0 +1,14 @@
+C:\Users\Raphael\Desktop\Decriptar\Decriptar\bin\Debug\Decriptar.exe.config
+C:\Users\Raphael\Desktop\Decriptar\Decriptar\bin\Debug\Decriptar.exe
+C:\Users\Raphael\Desktop\Decriptar\Decriptar\bin\Debug\Decriptar.pdb
+C:\Users\Raphael\Desktop\Decriptar\Decriptar\obj\Debug\Decriptar.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\Desktop\Decriptar\Decriptar\obj\Debug\Decriptar.exe
+C:\Users\Raphael\Desktop\Decriptar\Decriptar\obj\Debug\Decriptar.pdb
+C:\Users\Raphael\Desktop\Decriptar\Decriptar\obj\Debug\Decriptar.csprojAssemblyReference.cache
+C:\Users\rfiore\Desktop\Decriptar\Decriptar\bin\Debug\Decriptar.exe.config
+C:\Users\rfiore\Desktop\Decriptar\Decriptar\bin\Debug\Decriptar.exe
+C:\Users\rfiore\Desktop\Decriptar\Decriptar\bin\Debug\Decriptar.pdb
+C:\Users\rfiore\Desktop\Decriptar\Decriptar\obj\Debug\Decriptar.csprojAssemblyReference.cache
+C:\Users\rfiore\Desktop\Decriptar\Decriptar\obj\Debug\Decriptar.csproj.CoreCompileInputs.cache
+C:\Users\rfiore\Desktop\Decriptar\Decriptar\obj\Debug\Decriptar.exe
+C:\Users\rfiore\Desktop\Decriptar\Decriptar\obj\Debug\Decriptar.pdb

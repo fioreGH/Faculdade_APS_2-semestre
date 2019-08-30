@@ -1,0 +1,14 @@
+C:\Users\Raphael\Desktop\Criptografar\Criptografar\bin\Debug\Criptografar.exe.config
+C:\Users\Raphael\Desktop\Criptografar\Criptografar\bin\Debug\Criptografar.exe
+C:\Users\Raphael\Desktop\Criptografar\Criptografar\bin\Debug\Criptografar.pdb
+C:\Users\Raphael\Desktop\Criptografar\Criptografar\obj\Debug\Criptografar.csprojAssemblyReference.cache
+C:\Users\Raphael\Desktop\Criptografar\Criptografar\obj\Debug\Criptografar.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\Desktop\Criptografar\Criptografar\obj\Debug\Criptografar.exe
+C:\Users\Raphael\Desktop\Criptografar\Criptografar\obj\Debug\Criptografar.pdb
+C:\Users\rfiore\Desktop\Criptografar\Criptografar\bin\Debug\Criptografar.exe.config
+C:\Users\rfiore\Desktop\Criptografar\Criptografar\bin\Debug\Criptografar.exe
+C:\Users\rfiore\Desktop\Criptografar\Criptografar\bin\Debug\Criptografar.pdb
+C:\Users\rfiore\Desktop\Criptografar\Criptografar\obj\Debug\Criptografar.csprojAssemblyReference.cache
+C:\Users\rfiore\Desktop\Criptografar\Criptografar\obj\Debug\Criptografar.csproj.CoreCompileInputs.cache
+C:\Users\rfiore\Desktop\Criptografar\Criptografar\obj\Debug\Criptografar.exe
+C:\Users\rfiore\Desktop\Criptografar\Criptografar\obj\Debug\Criptografar.pdb
